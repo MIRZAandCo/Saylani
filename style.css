@@ -1,0 +1,11 @@
+.img-respo{
+    width: 25px;
+    height: 25px;
+    border-radius:2px;
+
+}
+.images{
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 30px;
+}
